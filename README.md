@@ -22,4 +22,4 @@ This project is an AI-powered system for predicting skin diseases using deep lea
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/AI-Based-Skin-disease-Prediction-System.git
+   git clone [https://github.com/your-username/AI-Based-Skin-disease-Prediction-System.git](https://github.com/Rahulkannan0784/AI-Based-Skin-disease-Prediction-System.git)https://github.com/Rahulkannan0784/AI-Based-Skin-disease-Prediction-System.git
