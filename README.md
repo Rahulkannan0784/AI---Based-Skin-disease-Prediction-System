@@ -16,6 +16,10 @@ This project is an AI-powered system for predicting skin diseases using deep lea
 - User-friendly web interface for image upload and prediction
 - Detailed information about predicted skin diseases
 
+**Demo:**
+
+Check out the live demo of the project: [AI-Based Skin Disease Prediction System Demo](https://ishubham21.github.io/infinity-skncure/)
+
 **Installation:**
 
 1. Clone the repository:
